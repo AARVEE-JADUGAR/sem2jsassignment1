@@ -1,1 +1,0 @@
-# sem2jsassignment1
