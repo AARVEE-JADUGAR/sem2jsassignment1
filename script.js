@@ -10,6 +10,7 @@ form.addEventListener("submit", function(event){
     const date=eventDate.value
     const cat=category.value
     const desc=description.value
+    
 
     const card=document.createElement('div')
     card.classList.add('card')
@@ -53,4 +54,5 @@ document.addEventListener('keydown',(event)=>{
 })
 
 const demoText = "<strong>Bold Text</strong> with spaces"
+
 
